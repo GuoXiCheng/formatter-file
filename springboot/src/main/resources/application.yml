@@ -1,0 +1,5 @@
+spring:
+  freemarker:
+    settings:
+      template_update_delay: 0
+      cache: false
